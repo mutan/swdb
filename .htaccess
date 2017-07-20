@@ -1,0 +1,3 @@
+php_flag display_errors off
+AddDefaultCharset UTF-8
+php_value mbstring.internal_encoding UTF-8
